@@ -1,11 +1,11 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0D9488,100:0284C7&height=210&section=header&text=Rayhanul%20Islam&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20%26%20XAI%20Researcher%20%7C%20EdTech%20Engineer%20%7C%20ACM%20ICPS%20Published%20%26%20Book%20Author&descAlignY=62&descSize=16&animation=fadeIn" alt="Rayhanul Islam Header"/>
+<img width="100%" src="./header.svg" alt="Rayhanul Islam — AI/ML &amp; XAI Researcher"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rayhanul%20Islam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayhanuftb)
 [![Email](https://img.shields.io/badge/Email-rayhanuftb%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rayhanuftb@gmail.com)
 [![ACM ICPS](https://img.shields.io/badge/ACM%20ICPS-ICEFronT%202026-0F766E?style=for-the-badge&logo=acm&logoColor=white)](#-publications--research)
-[![UFTB](https://img.shields.io/badge/UFTB-CGPA%203.87%20%7C%202nd%20Merit-F59E0B?style=for-the-badge&logo=academia&logoColor=white)](#-education--honors)
+[![UFTB](https://img.shields.io/badge/UFTB-2nd%20Merit%20%7C%20Dean's%20Award-F59E0B?style=for-the-badge&logo=academia&logoColor=white)](#-education--honors)
 
 </div>
 
@@ -13,7 +13,7 @@
 
 ### About Me
 
-I am a research-oriented **B.Sc. (Engineering)** graduate in **Educational Technology and Engineering** from the **University of Frontier Technology, Bangladesh (UFTB)** (**CGPA 3.87/4.00**, **2nd Merit Position**, **Dean's Award 2022–2026**). My work sits at the intersection of **Artificial Intelligence, Medical Image Analysis, Explainable AI (XAI), Algorithmic Fairness, and Educational Technology**.
+I am a research-oriented **B.Sc. (Engineering)** graduate in **Educational Technology and Engineering** from the **University of Frontier Technology, Bangladesh (UFTB)** (**2nd Merit Position**, **Dean's Award 2022–2026**). My work sits at the intersection of **Artificial Intelligence, Medical Image Analysis, Explainable AI (XAI), Algorithmic Fairness, and Educational Technology**.
 
 - **Research Focus:** Machine Learning, Deep Learning, Medical Image Analysis (CNNs & Ensemble Models), Explainable AI (SHAP), Algorithmic Fairness & Bias Mitigation, Data Science, and EdTech
 - **Published Researcher & Author:** ACM ICPS Conference Paper (*ICEFronT 2026*) & Co-Author of *Shikshapoddhoti O Projuktigoto Rupantor* (Adarsha Publishers, 2026)
@@ -83,7 +83,7 @@ I am a research-oriented **B.Sc. (Engineering)** graduate in **Educational Techn
 
 ### Education & Honors
 
-- **B.Sc. (Engg.) in Educational Technology and Engineering** — University of Frontier Technology, Bangladesh (2026) · **CGPA: 3.87 / 4.00**
+- **B.Sc. (Engg.) in Educational Technology and Engineering** — University of Frontier Technology, Bangladesh (2026)
 - **Dean's Award**, University of Frontier Technology, Bangladesh *(2022–2026)*
 - **2nd Position (Merit Rank)**, B.Sc. (Engg.) in Educational Technology and Engineering *(2026)*
 - **AWS Academy Graduate** — Introduction to Cloud (Semesters 1 & 2) *(2025)*
@@ -95,7 +95,5 @@ I am a research-oriented **B.Sc. (Engineering)** graduate in **Educational Techn
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rayhanul-islam-git&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rayhanul-islam-git&layout=compact&theme=tokyonight&hide_border=true)
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0284C7,50:0D9488,100:0F172A&height=110&section=footer" alt="Footer"/>
 
 </div>
