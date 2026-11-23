@@ -31,7 +31,17 @@ I am a research-oriented **B.Sc. (Engineering)** graduate in **Educational Techn
 
 ---
 
-### Live Interactive Academic Projects
+### Flagship Projects (Live + Source Code)
+
+| Project | Domain | Key Features & Stack | Links |
+|---|---|---|---|
+| **Future of Cardiac Care: Heart Disease ML** | AI / Medical ML & XAI | 13-feature ensemble risk predictor, live SHAP contribution waterfall, 6-model ROC/Confusion Matrix benchmarks & interactive 3D WebGL cardiac core | [Live App](https://uftb-cardiac-care-ml.vercel.app) · [Repo](https://github.com/rayhanul-islam-git/heart-disease-prediction-ml) |
+| **SafeRx AI: Intelligent Healthcare Solution** | Clinical AI & SQA | 16-drug multi-interaction & allergy safety engine, Cockcroft-Gault CrCl dosage calculator, Firebase Auth/Firestore RBAC, 3D WebGL molecular lattice & live 20-test SQA suite | [Live App](https://uftb-saferx-ai.vercel.app) · [Repo](https://github.com/rayhanul-islam-git/saferx-ai-healthcare) |
+| **Abhoron (আভরণ) Luxury Couture E-Commerce** | Full-Stack E-Commerce | Luxury Bengali handloom storefront, 3D tilt product cards, Cart/Promo (`ABHORON15`)/Checkout, Order Tracker, Firebase Auth/Firestore & Admin Inventory Atelier | [Live App](https://uftb-abhoron-ecommerce.vercel.app) · [Repo](https://github.com/rayhanul-islam-git/abhoron-ecommerce) |
+
+---
+
+### Live Interactive Academic Lab Platforms
 
 | # | Project | Course / Domain | Stack & Highlights | Live Demo |
 |---|---|---|---|---|
@@ -43,11 +53,6 @@ I am a research-oriented **B.Sc. (Engineering)** graduate in **Educational Techn
 | 6 | **Time Series Forecasting Observatory** | ICTE 4434 · Big Data Lab | 180-Day LMS Dataset, SMA / EMA / AR(p) Forecasting with 95% CI, Additive Decomposition, ADF & ACF | [Live App](https://uftb-time-series-analysis.vercel.app) |
 | 7 | **DSA Expression Converter** | ICT 4156 · DSA Lab | Infix/Postfix/Prefix (All 6 Modes), Animated LIFO Stack Visualizer & SVG Binary Expression Tree | [Live App](https://uftb-expression-converter.vercel.app) |
 | 8 | **Banking Network Simulation** | ICT 4262 · Networking Lab | Interactive Multi-VLAN Topology, Animated Packet/Ping/Traceroute, ACL Enforcement & Cisco IOS Configs | [Live App](https://uftb-banking-network.vercel.app) |
-
-**Additional Research & Engineering Projects:**
-- **Future of Cardiac Care:** End-to-end Heart Disease Prediction ML pipeline (Python, Pandas, NumPy, Supervised Classifiers)
-- **SafeRx AI:** AI-assisted healthcare software engineered with structured architecture & QA practices
-- **Abhoron E-Commerce:** Full-stack clothing & textiles e-commerce web application (HTML, CSS, PHP, MySQL)
 
 ---
 
