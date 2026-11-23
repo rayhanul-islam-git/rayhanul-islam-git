@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 220" width="1200" height="220">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0B132B"/>
+      <stop offset="50%" stop-color="#0F4C5C"/>
+      <stop offset="100%" stop-color="#0284C7"/>
+    </linearGradient>
+    <linearGradient id="glow1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#2DD4BF" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#38BDF8" stop-opacity="0.05"/>
+    </linearGradient>
+    <linearGradient id="glow2" x1="100%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#F59E0B" stop-opacity="0.28"/>
+      <stop offset="100%" stop-color="#0D9488" stop-opacity="0.0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="220" rx="18" fill="url(#bg)"/>
+  <path d="M0,165 C220,110 420,215 680,155 C920,100 1080,175 1200,130 L1200,220 L0,220 Z" fill="url(#glow1)"/>
+  <circle cx="1040" cy="48" r="115" fill="url(#glow2)"/>
+  <circle cx="130" cy="40" r="85" fill="#2DD4BF" fill-opacity="0.12"/>
+  <rect x="28" y="24" width="1144" height="172" rx="14" fill="#FFFFFF" fill-opacity="0.06" stroke="#FFFFFF" stroke-opacity="0.18" stroke-width="1.2"/>
+  <text x="600" y="102" text-anchor="middle" fill="#FFFFFF" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="48" font-weight="700" letter-spacing="1.2">Rayhanul Islam</text>
+  <text x="600" y="142" text-anchor="middle" fill="#CCFBF1" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="19" font-weight="500" letter-spacing="0.4">AI/ML &amp; Explainable AI Researcher  ·  EdTech Engineer  ·  ACM ICPS Published &amp; Book Author</text>
+  <text x="600" y="172" text-anchor="middle" fill="#BAE6FD" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="400">University of Frontier Technology, Bangladesh (UFTB)</text>
+</svg>
